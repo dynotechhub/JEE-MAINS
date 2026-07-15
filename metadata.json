@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Dyno Study OS",
+  "description": "An AI-powered personal study operating system. Manage subjects, chapters, lectures, and DPPs, track goals, focus with a Pomodoro timer, analyze backlog, and query your intelligent AI study mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
